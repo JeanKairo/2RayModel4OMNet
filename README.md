@@ -64,8 +64,9 @@ Aguarde até que o simulador seja aberto.
 
 1. Nos aquivos configure.user e configure.user.dist, na pasta de instalação do OMNet, habilite o OSG:
 
-WITH_OSG=yes
-WITH_OSGEARTH=yes
+WITH_OSG=yes.
+
+WITH_OSGEARTH=yes.
 
 2. Ao executar o OMNet, na pasta do inet aperte com o botão direito, vá em **properties>OMNet++>Project Features** e habilte o Visualization OSG (3D) e o Visualization OSG (3D) showcases.
 
