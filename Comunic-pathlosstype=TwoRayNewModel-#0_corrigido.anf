@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<analysis version="2">
+    <inputs>
+        <input pattern="/Teste/simulations/results/Comunic-pathlosstype=TwoRayNewModel-#0_corrigido.vec"/>
+        <input pattern="/Teste/simulations/results/Comunic-pathlosstype=TwoRayNewModel-#0_corrigido.sca"/>
+        <input pattern="simulations/results/Comunic-pathlosstype=TwoRayNewModel-#0.sca"/>
+    </inputs>
+    <charts/>
+</analysis>
